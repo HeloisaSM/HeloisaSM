@@ -4,7 +4,7 @@ soy estudante moro en Brasil y es un placer en conocerte!!!
 
 En este momento tomo un curso de español.
 
-Estou estudando pelo [ALURA](https://www.alura.com.br)
+Estoy estudando pelo [ALURA](https://www.alura.com.br)
 
 ![](https://media1.tenor.com/m/RTPlQI1jeH4AAAAC/jim-face.gif)
 
